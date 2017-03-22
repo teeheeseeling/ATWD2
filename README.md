@@ -10,7 +10,7 @@
 + [scatterChart.php](scatterChart.php)
 + [lineChart.php](lineChart.php)
 
-### Normalise and Optimise the Data
+## Normalise and Optimise the Data
 
 `DOM parser` is a processing model that create an object tree in the memory where it loads everything from the file into the memory. Once it is loaded in the memory, the object can navigate freely to any node. Also, since the data is stored in the memory, the object can append, delete or update a child node. But this processing model requires large memory space as the memory holds the entire representation of the document as an object when it starts to process the document. Therefore, DOM parser is only good to parse smaller size data but the assignment requires parsing large XML files. So, this makes DOM parser not a good choice to implement in this assignment. 
 
