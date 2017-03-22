@@ -3,10 +3,10 @@
 
 | Source Files    | Links                                   | 
 | :-------------  | :-------------                          |
-| CSV to XML      | [http://www.cems.uwe.ac.uk/~s5-low/atwd2/assignment/csvToXML.php](csvToXML.php)            |
-| Normalise Data  | [http://www.cems.uwe.ac.uk/~s5-low/atwd2/assignment/normaliseData.php](normaliseData.php)  |
-| Scatter Graph   | [http://www.cems.uwe.ac.uk/~s5-low/atwd2/assignment/scatterChart.php](scatterChart.php)    |
-| Line Graph      | [http://www.cems.uwe.ac.uk/~s5-low/atwd2/assignment/lineChart.php](lineChart.php)          |
+| CSV to XML      | [csvToXML.php](http://www.cems.uwe.ac.uk/~s5-low/atwd2/assignment/csvToXML.php)            |
+| Normalise Data  | [normaliseData.php](http://www.cems.uwe.ac.uk/~s5-low/atwd2/assignment/normaliseData.php)  |
+| Scatter Graph   | [scatterChart.php](http://www.cems.uwe.ac.uk/~s5-low/atwd2/assignment/scatterChart.php)    |
+| Line Graph      | [lineChart.php](http://www.cems.uwe.ac.uk/~s5-low/atwd2/assignment/lineChart.php)          |
 
 ## 2.0 Normalise and Optimise the Data
 
