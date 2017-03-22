@@ -144,8 +144,6 @@ In the Scatter and Line Chart, both take in station and date/time to generate th
 
 ## Referencing
 
-References
-
 Miguélez, F. (2017) Best XML parser for Java. Available from: http://stackoverflow.com/questions/373833/best-xml-parser-for-java?rq=1 [Accessed 22 March 2017].
 
 OldCurmudgeon, O. (2017) Java: Parsing XML files: DOM, SAX or StAX?. Available from: http://stackoverflow.com/questions/21019509/java-parsing-xml-files-dom-sax-or-stax [Accessed 22 March 2017].
