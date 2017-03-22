@@ -75,8 +75,8 @@ $records=array();
 ## 3.0 Extensibility of Charting and Data Visualisation
 
 Google Charts is a visualisation API which used to visualise the required data from 6 XML files and produced,
-| Source Files    | Links                                   | 
-| :-------------  | :-------------                          |
+| Source Files    | Links                                                                                      | 
+| :-------------  | :----------------------------------------------------------------------------------------- |
 | Scatter Graph   | [scatterChart.php](http://www.cems.uwe.ac.uk/~s5-low/atwd2/assignment/scatterChart.php)    |
 | Line Graph      | [lineChart.php](http://www.cems.uwe.ac.uk/~s5-low/atwd2/assignment/lineChart.php)          |
 
