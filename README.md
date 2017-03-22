@@ -1,5 +1,5 @@
 # Advanced Topics in Web Development 2
-## Links to Source Files
+## 1.0 Links to Source Files
 
 | Source Files    | Links                                   | 
 | :-------------  | :-------------                          |
@@ -8,7 +8,7 @@
 | Scatter Graph   | [scatterChart.php](scatterChart.php)    |
 | Line Graph      | [lineChart.php](lineChart.php)          |
 
-## Normalise and Optimise the Data
+## 2.0 Normalise and Optimise the Data
 
 `DOM parser` is a processing model that create an object tree in the memory where it loads everything from the file into the memory. Once it is loaded in the memory, the object can navigate freely to any node. Also, since the data is stored in the memory, the object can append, delete or update a child node. But this processing model requires large memory space as the memory holds the entire representation of the document as an object when it starts to process the document. Therefore, DOM parser is only good to parse smaller size data but the assignment requires parsing large XML files. So, this makes DOM parser not a good choice to implement in this assignment. 
 
@@ -72,7 +72,7 @@ $records=array();
 ```
 
 
-## Extensibility of Charting and Data Visualisation
+## 3.0 Extensibility of Charting and Data Visualisation
 
 Google Charts is a visualisation API which used to visualise the required data from 6 XML files and produced,
 + Scatter Chart
@@ -151,7 +151,7 @@ In the Scatter and Line Chart, both take in station and date/time to generate th
 
 ![alt text](barChart.PNG "Bar Chart")
 
-## Referencing
+## 4.0 Referencing
 
 Miguélez, F. (2017) Best XML parser for Java. Available from: http://stackoverflow.com/questions/373833/best-xml-parser-for-java?rq=1 [Accessed 22 March 2017].
 
